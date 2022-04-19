@@ -1,0 +1,48 @@
+#la{
+font-size: xx-large;
+font-family:cursive;
+}
+#VS{
+    font-size:large ;
+    color: red;
+}
+#lab{
+    font-family: monospace;
+    font-size: x-large;
+}
+.btn-primary:hover{
+    background-color:rgb(228, 148, 255);
+}
+.btn-info:hover{
+    background-color:rgb(228, 148, 255);
+}
+#bo{
+height: 400px;
+width: 350;
+}
+#d{
+    padding: 50px;;
+    background-color: grey;
+    width: 1100px;
+    height: 600px;
+   border-radius: 20px;
+}
+#mb{
+    background-color:whitesmoke;
+    border-radius: 300px;
+    color: black;
+}
+#gl{
+    background-color:whitesmoke;
+    border-radius: 300px;
+    color: black;
+}
+#div{
+    background-color: grey;
+    height: 520px;
+}
+#labe{
+    background-color: #fbd;
+    border-radius: 3000;
+    width: max-content;
+}
